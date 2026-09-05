@@ -1,6 +1,10 @@
 {
   "rewrites": [
     {
+      "source": "/",
+      "destination": "https://sites-project.raghurram83.workers.dev/"
+    },
+    {
       "source": "/:path*",
       "destination": "https://sites-project.raghurram83.workers.dev/:path*"
     }
