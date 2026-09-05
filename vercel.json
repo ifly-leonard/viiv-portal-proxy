@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/:path*",
+      "destination": "https://sites-project.raghurram83.workers.dev/:path*"
+    }
+  ]
+}
